@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @janetune
+/src/backend/database.py      @janetune
+/src/backend/routers/auth.py  @janetune
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @janetune
